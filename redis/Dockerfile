@@ -1,4 +1,4 @@
-FROM redis:3.2-alpine
+FROM  redis:6.0.8
 
 MAINTAINER bravist <chenghuiyong1987@gmail.com>
 
